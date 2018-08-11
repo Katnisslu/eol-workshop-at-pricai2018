@@ -9,18 +9,24 @@ workshop around Evolutionary Optimization and Learning collocated with the 15th 
 Artificial Intelligence August 27-31, 2018, Nanjing, China. The workshop will feature several keynote talks by leading
 experts on this topic and related fields. 
 
+
 ## Invited Speakers:
-- 
-- 
-- 
+- Talk 1: Multi-Objective Evolutionary Algorithms for Data Mining \
+Xingyi Zhang, Anhui University
 
-## Organization:
-### Organization Committee
-1. Ke Tang, Southern University of Science and Technology, China, Email: tangk3@sustc.edu.cn
+- Talk 2: Subset Selection by Pareto Optimization: Theories and Practical Algorithms \
+Chao Qian, University of Science and Technology of China
+
+- Talk 3: Evolutionary Multimodal Optimization: Decision-making and Visualization \
+Ran Cheng, University of Birmingham
+
+- Talk 4: Turning High-dimensional Optimization into Computationally Expensive Optimization \
+Peng Yang, Southern University of Science and Technology
 
 
-## Organization Institutions
+## Organization Committe:
+Ke Tang, Southern University of Science and Technology, China, Email: tangk3@sustc.edu.cn
+
 
 ## Contact
-
-If you have any trouble, please contact.
+If you have any trouble，please contact: luxf@sustc.edu.cn. 
