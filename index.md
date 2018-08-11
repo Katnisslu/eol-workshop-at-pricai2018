@@ -11,20 +11,16 @@ experts on this topic and related fields. 
 
 
 ## Invited Speakers:
-- Talk 1: Multi-Objective Evolutionary Algorithms for Data Mining 
-
+- Talk 1: Multi-Objective Evolutionary Algorithms for Data Mining \
 Xingyi Zhang, Anhui University
 
-- Talk 2: Subset Selection by Pareto Optimization: Theories and Practical Algorithms 
-
+- Talk 2: Subset Selection by Pareto Optimization: Theories and Practical Algorithms \
 Chao Qian, University of Science and Technology of China
 
-- Talk 3: Evolutionary Multimodal Optimization: Decision-making and Visualization 
-
+- Talk 3: Evolutionary Multimodal Optimization: Decision-making and Visualization \
 Ran Cheng, University of Birmingham
 
-- Talk 4: Turning High-dimensional Optimization into Computationally Expensive Optimization 
-
+- Talk 4: Turning High-dimensional Optimization into Computationally Expensive Optimization \
 Peng Yang, Southern University of Science and Technology
 
 
